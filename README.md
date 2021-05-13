@@ -13,4 +13,4 @@ App used every day by hundred of California state employees and schools.
 <p align="center">
 <img src="images/SelfScreening/ss0.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss1.png" width="230" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/simulator.gif" width="226" title="the latest update">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss2.png" width="230" title="Questions Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss3.png" width="230" title="Updated Home Screen">
 </p>
-[AppStore](https://apps.apple.com/app/id1540141318) since
+[AppStore] (https://apps.apple.com/app/id1540141318)  since Nov, 2020
