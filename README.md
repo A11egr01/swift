@@ -6,9 +6,11 @@ A visual portfolio of my latest Swift iOS projects. 📱
 
 Use the Schools Self Screening App to help fight the spread of COVID-19 by having your employees submit a self screening before entering the workplace.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Sakura was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of both UIView animations and CAEmitterLayers.  
+Self Screenin‪g‬ was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of both UIView animations and CAEmitterLayers. App uses Alamofire for the networking layer and Crashlytics to analyze app crash reports.
+
+App used every day by hundred of California state employees and schools.
 
 <p align="center">
 <img src="images/SelfScreening/ss0.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss1.png" width="230" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/simulator.gif" width="226" title="the latest update">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss2.png" width="230" title="Questions Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss3.png" width="230" title="Updated Home Screen">
 </p>
-[AppStore](https://github.com/cmilr/dark-room)
+[AppStore](https://apps.apple.com/app/id1540141318) since
