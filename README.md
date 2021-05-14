@@ -62,12 +62,12 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 #### iPhone
 <p align="center">
-<img src="images/SEISTracker/1.png" width="230"  title="Reporting screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/1.png" width="230" title="Assessments screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/3.png" width="230" title="Deliveries screen">
+<img src="images/SEISTracker/1.png" width="230"  title="Reporting screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/2.png" width="230" title="Assessments screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/3.png" width="230" title="Deliveries screen">
 </p>
 
 #### and iPad 
 <p align="center">
-<img src="images/SEISTracker/ip1.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/ip2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/ip3.png" width="350" title="View submissions">
+<img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i1.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="View submissions">
 </p>
 
 [AppStore](https://apps.apple.com/us/app/seis-tracker/id1437211511) 
