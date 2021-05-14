@@ -92,9 +92,9 @@ The Strong Start app is an information tool to help you become familiar with our
 
 The California Center on Teaching Careers is tasked with helping to eliminate the teacher shortage in California. To that end, we have created the Credential Tracker App. Our initial effort is to help those teacher candidates that are currently on a provisional intern permit to teach.
 
-#### iPhone
+#### iPhone and iPad
 <p align="center">
-<img src="images/Tulare/2.png" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /v1.gif" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="230" title="Navigation walkthrough">
+<img src="images/Tulare/2.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/v1.gif" width="230" title="Row clicked animation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Share screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Permit pathway screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="230" title="iPad pathway screen">
 </p>
 
 [AppStore](https://apps.apple.com/app/id1349924190) 
