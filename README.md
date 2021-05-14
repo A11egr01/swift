@@ -88,6 +88,18 @@ The Strong Start app is an information tool to help you become familiar with our
 
 [AppStore](https://apps.apple.com/us/app/strong-start/id1517861555) 
 
+# CCTC Credential Tracke‪r‬
+
+The California Center on Teaching Careers is tasked with helping to eliminate the teacher shortage in California. To that end, we have created the Credential Tracker App. Our initial effort is to help those teacher candidates that are currently on a provisional intern permit to teach.
+
+#### iPhone
+<p align="center">
+<img src="images/Tulare /2.png" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /v1.gif" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /2.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /3.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/m3.gif" width="230" title="Navigation walkthrough">
+</p>
+
+[AppStore](https://apps.apple.com/app/id1349924190) 
+
+
 ## Thanks for stopping by!
 
 # Contact Info:
