@@ -1,4 +1,4 @@
-# swift
+# App portfolio
 A visual portfolio of my latest Swift iOS projects. 📱
 
 
@@ -16,4 +16,25 @@ App used every day by hundreds of California state employees and schools.
 
 [AppStore](https://apps.apple.com/app/id1540141318)  since Nov, 2020
 
+# CA Dashboar‪d‬
 
+The Dashboard is California’s new accountability system and helps parents and educators identify strengths and areas for improvement. Through the Dashboard, California reports how districts, schools (including alternative schools serving high-risk students), and student groups are performing across state measures and responding to local indicator measures.
+
+#### iPhone
+<p align="center">
+<img src="images/Dashboard/d1.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d2.png" width="230" title="Search screen with location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d3.png width="226" title="Overview screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d4.png" width="230" title="Student population screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d5.png" width="230" title="Academic Performance">
+</p>
+
+#### and iPad 
+<p align="center">
+<img src="images/Dashboard/ipad1.png" width="600"  title="iPad screens">
+</p>
+
+[AppStore](https://apps.apple.com/app/id1469947640)  since Jun, 2019
+
+## Thanks for stopping by!
+
+# Contact Info:
+
+- Email: hiAlexSosnov@gmail.com
+- LinkedIn: [asosnov](https://www.linkedin.com/in/alexander-sosnov/)
