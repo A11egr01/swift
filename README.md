@@ -43,7 +43,7 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 #### and iPad 
 <p align="center">
-<img src="images/EdjoinInterview/ip1.png" width="400"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="226" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="226" title="interview screen">
+<img src="images/EdjoinInterview/ip1.png" width="300"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="300" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="300" title="interview screen">
 </p>
 
 [AppStore](https://apps.apple.com.com/us/app/edjoin-interview/id434730011)
