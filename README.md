@@ -94,10 +94,27 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 
 #### iPhone and iPad
 <p align="center">
-<img src="images/Tulare/2.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/v1.gif" width="230" title="Row clicked animation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Share screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Permit pathway screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="230" title="iPad pathway screen">
+<img src="images/Tulare/2.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/v1.gif" width="230" title="Row clicked animation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Share screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Permit pathway screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="300" title="iPad pathway screen">
 </p>
 
 [AppStore](https://apps.apple.com/app/id1349924190) 
+
+# Allo Community
+
+App where friends and neighbors help each other out!
+
+Social Networking for parents
+* Build test and deploy app to the AppStore
+* MapKit functionality, filters, views
+* NewsFeed implementation, server library, UI/UX
+Technology used: Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
+
+#### iPhone only
+<p align="center">
+<img src="images/Allo/1.png" width="230"  title="Main screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/2.png" width="230" title="Map overview page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/3.png" width="230" title="Login with Facebook screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/4.png" width="230" title="Home screen">
+</p>
+
+[Allo's website](https://www.allocommunity.com) 
 
 
 ## Thanks for stopping by!
@@ -105,4 +122,4 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 # Contact Info:
 
 - Email: hiAlexSosnov@gmail.com
-- LinkedIn: [asosnov](https://www.linkedin.com/in/alexander-sosnov/)
+- LinkedIn: [Alex Sosnov](https://www.linkedin.com/in/alexander-sosnov/)
