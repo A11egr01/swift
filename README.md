@@ -32,6 +32,22 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 [AppStore](https://apps.apple.com/app/id1469947640)  since Jun, 2019
 
+# EDJOIN Intervie‪w‬ 
+
+The Dashboard is California’s new accountability system and helps parents and educators identify strengths and areas for improvement. Through the Dashboard, California reports how districts, schools (including alternative schools serving high-risk students), and student groups are performing across state measures and responding to local indicator measures.
+
+#### iPhone
+<p align="center">
+<img src="images/EdjoinInterview/i1.gif" width="230"  title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/i1.png" width="230" title="interviews screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/i2.gif" width="226" title="interview screen">
+</p>
+
+#### and iPad 
+<p align="center">
+<img src="images/EdjoinInterview/ip1.png" width="400"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="226" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="226" title="interview screen">
+</p>
+
+[AppStore](https://apps.apple.com.com/us/app/edjoin-interview/id434730011)
+
 ## Thanks for stopping by!
 
 # Contact Info:
