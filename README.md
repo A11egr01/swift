@@ -67,6 +67,22 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 #### and iPad 
 <p align="center">
+<img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/v1.png" width="350" title="View submissions">
+</p>
+
+[AppStore](https://apps.apple.com/us/app/seis-tracker/id1437211511) 
+
+# Strong Start
+
+The Strong Start app is an information tool to help you become familiar with our department. Stay in the know with upcoming events, search staff members with our contact directory, browse helpful resources and more.
+
+#### iPhone
+<p align="center">
+<img src="images/SEISTracker/1.png" width="230"  title="Reporting screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/2.png" width="230" title="Assessments screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/3.png" width="230" title="Deliveries screen">
+</p>
+
+#### and iPad 
+<p align="center">
 <img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i1.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="View submissions">
 </p>
 
