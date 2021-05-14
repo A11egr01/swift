@@ -78,15 +78,15 @@ The Strong Start app is an information tool to help you become familiar with our
 
 #### iPhone
 <p align="center">
-<img src="images/SEISTracker/1.png" width="230"  title="Reporting screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/2.png" width="230" title="Assessments screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/3.png" width="230" title="Deliveries screen">
+<img src="images/StrongStart/m1.gif" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone1.png" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone2.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone3.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/m2.gif" width="230" title="Navigation walkthrough">
 </p>
 
 #### and iPad 
 <p align="center">
-<img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i1.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="View submissions">
+<img src="images/SEISTracker/ipad1.png" width="350"  title="Home screen">
 </p>
 
-[AppStore](https://apps.apple.com/us/app/seis-tracker/id1437211511) 
+[AppStore](https://apps.apple.com/us/app/strong-start/id1517861555) 
 
 ## Thanks for stopping by!
 
