@@ -34,7 +34,7 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 # EDJOIN Intervie‪w‬ 
 
-The Dashboard is California’s new accountability system and helps parents and educators identify strengths and areas for improvement. Through the Dashboard, California reports how districts, schools (including alternative schools serving high-risk students), and student groups are performing across state measures and responding to local indicator measures.
+The EDJOIN Interview app is a tool for California public education agencies who use EDJOIN and EDJOIN-Admin for online employee recruitment and application tracking. This app will offer new features such as facilitating the interview process.
 
 #### iPhone
 <p align="center">
@@ -43,10 +43,20 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 #### and iPad 
 <p align="center">
-<img src="images/EdjoinInterview/ip1.png" width="300"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="300" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="300" title="interview screen">
+<img src="images/EdjoinInterview/ip1.png" width="350"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="350" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="350" title="interview screen">
 </p>
 
 [AppStore](https://apps.apple.com.com/us/app/edjoin-interview/id434730011)
+
+# My Stuff Job Centra‪l‬
+
+The My Stuff Job Central app is a tool for beginning job seekers. The app allows you to input your information and easily create a resume for future employers. This app is a resource of the California Department of Education's California Career Resource Network.
+
+<p align="center">
+<img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="226" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
+</p>
+
+[AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748) 
 
 ## Thanks for stopping by!
 
