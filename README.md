@@ -78,7 +78,7 @@ The Strong Start app is an information tool to help you become familiar with our
 
 #### iPhone
 <p align="center">
-<img src="images/StrongStart/m1.gif" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone1.png" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone2.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone3.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/m2.gif" width="230" title="Navigation walkthrough">
+<img src="images/StrongStart/m1.gif" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone1.png" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone3.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone2.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/m2.gif" width="230" title="Navigation walkthrough">
 </p>
 
 #### and iPad 
