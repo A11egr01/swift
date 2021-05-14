@@ -67,7 +67,7 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 #### and iPad 
 <p align="center">
-<img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/v1.git" width="400" title="View submissions">
+<img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/v1.gif" width="400" title="View submissions">
 </p>
 
 [AppStore](https://apps.apple.com/us/app/seis-tracker/id1437211511) 
