@@ -107,7 +107,9 @@ Social Networking for parents
 * Build test and deploy app to the AppStore
 * MapKit functionality, filters, views
 * NewsFeed implementation, server library, UI/UX
-Technology used: Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
+
+Technology used: 
+Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
 
 #### iPhone only
 <p align="center">
