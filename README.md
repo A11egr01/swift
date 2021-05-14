@@ -22,7 +22,7 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 #### iPhone
 <p align="center">
-<img src="images/Dashboard/simulator.gif" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d2.png" width="230" title="Search screen with location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d3.png" width="226" title="Overview screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d4.png" width="230" title="Student population screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d5.png" width="230" title="Academic Performance">
+<img src="images/Dashboard/d1.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/simulator.gif" width="230" title="Search screen with location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d3.png" width="226" title="Overview screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d4.png" width="230" title="Student population screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d5.png" width="230" title="Academic Performance">
 </p>
 
 #### and iPad 
