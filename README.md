@@ -111,7 +111,7 @@ Technology used: Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
 
 #### iPhone only
 <p align="center">
-<img src="images/Allo/1.png" width="230"  title="Main screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/2.png" width="230" title="Map overview page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/3.png" width="230" title="Login with Facebook screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/4.png" width="230" title="Home screen">
+<img src="images/Allo/4.png" width="230"  title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/2.png" width="230" title="Map overview page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/3.png" width="230" title="Login with Facebook screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/1.png" width="230" title="Main screns">
 </p>
 
 [Allo's website](https://www.allocommunity.com) 
