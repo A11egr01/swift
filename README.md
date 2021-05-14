@@ -94,7 +94,7 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 
 #### iPhone
 <p align="center">
-<img src="images/Tulare /2.png" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /v1.gif" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /1.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /3.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="300" title="Navigation walkthrough">
+<img src="images/Tulare /2.png" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /v1.gif" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /1.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare /3.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 [AppStore](https://apps.apple.com/app/id1349924190) 
