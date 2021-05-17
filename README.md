@@ -79,7 +79,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 </p>
 
 [AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748)
-
+<a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 # SEIS Tracker
 
 The SEISTracker app allows service providers to quickly and easily document the delivery of their services, on the go. Most fields on the delivery page are prepopulated from the students IEP, to alleviate unneeded clicking. The deliveries entered into SEISTracker will update SEIS instantaneously. View the chart to see the total minutes that have been delivered for each student.
