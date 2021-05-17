@@ -1,6 +1,8 @@
 # App portfolio
 A visual portfolio of my latest Swift iOS projects. 📱
-
+<p align="center">
+<img src="images/icons/swift.png" width="50"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="70" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
+</p>
 
 # Schools Self Screenin‪g‬ 
 
@@ -10,15 +12,25 @@ Self Screenin‪g‬ was built with Xcode and written entirely in Swift 5; it ut
 
 App used every day by hundreds of California state employees and schools.
 
+* Fully buid this app
+
+Technology used: 
+Swift, Git, Autolayout, Push Notifications, Prorgamatic UI
+
 <p align="center">
 <img src="images/SelfScreening/ss0.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss4.png" width="230" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/simulator.gif" width="230" title="the latest update">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss2.png" width="230" title="Questions Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss5.png" width="230" title="Updated Home Screen">
 </p>
 
-[AppStore](https://apps.apple.com/app/id1540141318)  since Nov, 2020
+[AppStore](https://apps.apple.com/app/id1540141318)
 
 # CA Dashboar‪d‬
 
 The Dashboard is California’s new accountability system and helps parents and educators identify strengths and areas for improvement. Through the Dashboard, California reports how districts, schools (including alternative schools serving high-risk students), and student groups are performing across state measures and responding to local indicator measures.
+
+* Fully buid this app
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, MapKit, Firebase/Crashlytic
 
 #### iPhone
 <p align="center">
@@ -30,11 +42,16 @@ The Dashboard is California’s new accountability system and helps parents and 
 <img src="images/Dashboard/ipad1.png" width="800"  title="iPad screens">
 </p>
 
-[AppStore](https://apps.apple.com/app/id1469947640)  since Jun, 2019
+[AppStore](https://apps.apple.com/app/id1469947640)
 
 # EDJOIN Intervie‪w‬ 
 
 The EDJOIN Interview app is a tool for California public education agencies who use EDJOIN and EDJOIN-Admin for online employee recruitment and application tracking. This app will offer new features such as facilitating the interview process.
+
+* Fully rewrote this app in Swift, originally was buld with Flutter
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs 
 
 #### iPhone
 <p align="center">
@@ -56,9 +73,22 @@ The My Stuff Job Central app is a tool for beginning job seekers. The app allows
 <img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="230" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
 </p>
 
+
+* Fully buid this app
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
+
+[AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748)
+
 # SEIS Tracker
 
 The SEISTracker app allows service providers to quickly and easily document the delivery of their services, on the go. Most fields on the delivery page are prepopulated from the students IEP, to alleviate unneeded clicking. The deliveries entered into SEISTracker will update SEIS instantaneously. View the chart to see the total minutes that have been delivered for each student.
+
+* Added few sections new app sections to the existng app, added features, expanding it funcitonality 2x times. 
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Keychain
 
 #### iPhone
 <p align="center">
@@ -76,6 +106,11 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 The Strong Start app is an information tool to help you become familiar with our department. Stay in the know with upcoming events, search staff members with our contact directory, browse helpful resources and more.
 
+* Fully buid this app
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
+
 #### iPhone
 <p align="center">
 <img src="images/StrongStart/m1.gif" width="230"  title="Launch screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone1.png" width="230" title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone3.png" width="230" title="Random screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/iphone2.png" width="230" title="Staff screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/StrongStart/m3.gif" width="230" title="Navigation walkthrough">
@@ -91,6 +126,11 @@ The Strong Start app is an information tool to help you become familiar with our
 # CCTC Credential Tracke‪r‬
 
 The California Center on Teaching Careers is tasked with helping to eliminate the teacher shortage in California. To that end, we have created the Credential Tracker App. Our initial effort is to help those teacher candidates that are currently on a provisional intern permit to teach.
+
+* Rewrote the entire codebase of this app
+
+Technology used: 
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 
 #### iPhone and iPad
 <p align="center">
