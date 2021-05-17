@@ -69,15 +69,14 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs
 
 The My Stuff Job Central app is a tool for beginning job seekers. The app allows you to input your information and easily create a resume for future employers. This app is a resource of the California Department of Education's California Career Resource Network.
 
+* Fully buid this app
+
+Technology used:
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
+
 <p align="center">
 <img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="230" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
 </p>
-
-
-* Fully buid this app
-
-Technology used: 
-Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 
 [AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748)
 
