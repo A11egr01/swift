@@ -1,7 +1,7 @@
 # App portfolio
 A visual portfolio of my latest Swift iOS projects. 📱
-<p align="center">
-<img src="images/icons/swift.png" width="50"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="70" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
+<p align="left">
+<img src="images/icons/swift.png" width="50"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
 </p>
 
 # Schools Self Screenin‪g‬ 
