@@ -1,7 +1,7 @@
 # App portfolio
 A visual portfolio of my latest Swift iOS projects. 📱
 <p align="left">
-<img src="images/icons/swift.png" width="50"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
+<img src="images/icons/swift.png" width="50"  title="Swift 3.0 - 5.0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
 </p>
 
 # Schools Self Screenin‪g‬ 
@@ -34,6 +34,8 @@ The Dashboard is California’s new accountability system and helps parents and 
 Technology used: 
 Swift, Git, Autolayout, Prorgamatic UI, MapKit, Firebase/Crashlytic
 
+<a href="https://apps.apple.com/app/id1469947640" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
 #### iPhone
 <p align="center">
 <img src="images/Dashboard/d1.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/simulator.gif" width="230" title="Search screen with location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d3.png" width="230" title="Overview screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d4.png" width="230" title="Student population screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Dashboard/d5.png" width="230" title="Academic Performance">
@@ -44,8 +46,6 @@ Swift, Git, Autolayout, Prorgamatic UI, MapKit, Firebase/Crashlytic
 <img src="images/Dashboard/ipad1.png" width="800"  title="iPad screens">
 </p>
 
-<a href="https://apps.apple.com/app/id1469947640" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
-
 # EDJOIN Intervie‪w‬ 
 
 The EDJOIN Interview app is a tool for California public education agencies who use EDJOIN and EDJOIN-Admin for online employee recruitment and application tracking. This app will offer new features such as facilitating the interview process.
@@ -54,6 +54,8 @@ The EDJOIN Interview app is a tool for California public education agencies who 
 
 Technology used: 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs 
+
+<a href="https://apps.apple.com.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 #### iPhone
 <p align="center">
@@ -65,8 +67,6 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs
 <img src="images/EdjoinInterview/ip1.png" width="350"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="350" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="350" title="interview screen">
 </p>
 
-<a href="https://apps.apple.com.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
-
 # My Stuff Job Centra‪l‬
 
 The My Stuff Job Central app is a tool for beginning job seekers. The app allows you to input your information and easily create a resume for future employers. This app is a resource of the California Department of Education's California Career Resource Network.
@@ -76,11 +76,11 @@ The My Stuff Job Central app is a tool for beginning job seekers. The app allows
 Technology used:
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 
+<a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
 <p align="center">
 <img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="230" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
 </p>
-
-<a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # SEIS Tracker
 
@@ -90,6 +90,8 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 Technology used: 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Keychain
+
+<a href="https://apps.apple.com/us/app/seis-tracker/id1437211511" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 #### iPhone
 <p align="center">
@@ -101,8 +103,6 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Keychain
 <img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/v1.gif" width="400" title="View submissions">
 </p>
 
-<a href="https://apps.apple.com/us/app/seis-tracker/id1437211511" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
-
 # Strong Start
 
 The Strong Start app is an information tool to help you become familiar with our department. Stay in the know with upcoming events, search staff members with our contact directory, browse helpful resources and more.
@@ -111,6 +111,8 @@ The Strong Start app is an information tool to help you become familiar with our
 
 Technology used: 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
+
+<a href="https://apps.apple.com/us/app/strong-start/id1517861555" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 #### iPhone
 <p align="center">
@@ -122,8 +124,6 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 <img src="images/StrongStart/ipad1.png" width="400"  title="Home screen">
 </p>
 
-<a href="https://apps.apple.com/us/app/strong-start/id1517861555" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
-
 # CCTC Credential Tracke‪r‬
 
 The California Center on Teaching Careers is tasked with helping to eliminate the teacher shortage in California. To that end, we have created the Credential Tracker App. Our initial effort is to help those teacher candidates that are currently on a provisional intern permit to teach.
@@ -133,12 +133,13 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 Technology used: 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, In-App Messaging
 
+<a href="https://apps.apple.com/app/id1349924190" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
 #### iPhone and iPad
 <p align="center">
 <img src="images/Tulare/2.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/v1.gif" width="230" title="Row clicked animation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Share screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Permit pathway screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="300" title="iPad pathway screen">
 </p>
 
-<a href="https://apps.apple.com/app/id1349924190" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # Allo Community
 
@@ -152,12 +153,13 @@ Social Networking for parents
 Technology used: 
 Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
 
+[Allo's website](https://www.allocommunity.com) 
+
 #### iPhone only
 <p align="center">
 <img src="images/Allo/4.png" width="230"  title="Home screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/2.png" width="230" title="Map overview page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/3.png" width="230" title="Login with Facebook screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Allo/1.png" width="230" title="Main screns">
 </p>
 
-[Allo's website](https://www.allocommunity.com) 
 
 
 ## Thanks for stopping by!
