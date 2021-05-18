@@ -4,7 +4,8 @@ A visual portfolio of my latest Swift iOS projects. 📱
 <img src="images/icons/swift.png" width="50"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
 </p>
 
-# Schools Self Screenin‪g‬  <a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+# Schools Self Screenin‪g‬ 
+<a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 Use the Schools Self Screening App to help fight the spread of COVID-19 by having your employees submit a self screening before entering the workplace.
 
