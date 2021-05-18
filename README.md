@@ -21,7 +21,7 @@ Swift, Git, Autolayout, Push Notifications, Prorgamatic UI
 <img src="images/SelfScreening/ss0.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss4.png" width="230" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/simulator.gif" width="230" title="the latest update">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss2.png" width="230" title="Questions Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss5.png" width="230" title="Updated Home Screen">
 </p>
 
-[AppStore](https://apps.apple.com/app/id1540141318)
+<a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # CA Dashboar‪d‬
 
@@ -42,7 +42,7 @@ Swift, Git, Autolayout, Prorgamatic UI, MapKit, Firebase/Crashlytic
 <img src="images/Dashboard/ipad1.png" width="800"  title="iPad screens">
 </p>
 
-[AppStore](https://apps.apple.com/app/id1469947640)
+<a href="https://apps.apple.com/app/id1469947640" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # EDJOIN Intervie‪w‬ 
 
@@ -63,7 +63,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs
 <img src="images/EdjoinInterview/ip1.png" width="350"  title="iPad screens">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip2.png" width="350" title="candidates screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EdjoinInterview/ip3.png" width="350" title="interview screen">
 </p>
 
-[AppStore](https://apps.apple.com.com/us/app/edjoin-interview/id434730011)
+<a href="https://apps.apple.com.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # My Stuff Job Centra‪l‬
 
@@ -79,6 +79,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 </p>
 
 <a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
 # SEIS Tracker
 
 The SEISTracker app allows service providers to quickly and easily document the delivery of their services, on the go. Most fields on the delivery page are prepopulated from the students IEP, to alleviate unneeded clicking. The deliveries entered into SEISTracker will update SEIS instantaneously. View the chart to see the total minutes that have been delivered for each student.
@@ -98,7 +99,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Keychain
 <img src="images/SEISTracker/i0.png" width="350"  title="Deliveries screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/i2.png" width="350" title="Report screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SEISTracker/v1.gif" width="400" title="View submissions">
 </p>
 
-[AppStore](https://apps.apple.com/us/app/seis-tracker/id1437211511) 
+<a href="https://apps.apple.com/us/app/seis-tracker/id1437211511" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # Strong Start
 
@@ -119,7 +120,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 <img src="images/StrongStart/ipad1.png" width="400"  title="Home screen">
 </p>
 
-[AppStore](https://apps.apple.com/us/app/strong-start/id1517861555) 
+<a href="https://apps.apple.com/us/app/strong-start/id1517861555" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # CCTC Credential Tracke‪r‬
 
@@ -135,7 +136,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, In-App Messaging
 <img src="images/Tulare/2.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/v1.gif" width="230" title="Row clicked animation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/3.png" width="230" title="Share screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/1.png" width="230" title="Permit pathway screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Tulare/ipad.png" width="300" title="iPad pathway screen">
 </p>
 
-[AppStore](https://apps.apple.com/app/id1349924190) 
+<a href="https://apps.apple.com/app/id1349924190" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 # Allo Community
 
