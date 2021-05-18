@@ -5,7 +5,6 @@ A visual portfolio of my latest Swift iOS projects. 📱
 </p>
 
 # Schools Self Screenin‪g‬ 
-<a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 Use the Schools Self Screening App to help fight the spread of COVID-19 by having your employees submit a self screening before entering the workplace.
 
@@ -17,6 +16,8 @@ App used every day by hundreds of California state employees and schools.
 
 Technology used: 
 Swift, Git, Autolayout, Push Notifications, Prorgamatic UI
+
+<a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 <p align="center">
 <img src="images/SelfScreening/ss0.png" width="230"  title="Login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss4.png" width="230" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/simulator.gif" width="230" title="the latest update">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss2.png" width="230" title="Questions Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SelfScreening/ss5.png" width="230" title="Updated Home Screen">
