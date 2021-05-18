@@ -78,8 +78,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 <img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="230" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
 </p>
 
-<a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748"><img src="images/AppStore.png">
-
+<a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748"><img src="images/AppStore.png" width="250" >
 # SEIS Tracker
 
 The SEISTracker app allows service providers to quickly and easily document the delivery of their services, on the go. Most fields on the delivery page are prepopulated from the students IEP, to alleviate unneeded clicking. The deliveries entered into SEISTracker will update SEIS instantaneously. View the chart to see the total minutes that have been delivered for each student.
