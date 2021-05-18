@@ -78,7 +78,7 @@ Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 <img src="images/JobCentral/1.png" width="230"  title="First page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/2.png" width="230" title="Experience page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/3.png" width="230" title="Education page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/4.png" width="230" title="Personal screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/JobCentral/5.png" width="230" title="Print Resume Screen">
 </p>
 
-[AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748)
+// [AppStore](https://apps.apple.com/us/app/my-stuff-job-central/id1469462748)
 <a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 # SEIS Tracker
 
@@ -129,7 +129,7 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 * Rewrote the entire codebase of this app
 
 Technology used: 
-Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
+Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, In-App Messaging
 
 #### iPhone and iPad
 <p align="center">
