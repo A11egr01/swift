@@ -14,7 +14,7 @@ App used every day by hundreds of California state employees and schools.
 
 * Fully buid this app
 
-Technology used: 
+Technology used:  <br />   
 Swift, Git, Autolayout, Push Notifications, Prorgamatic UI
 
 <a href="https://apps.apple.com/app/id1540141318" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -150,7 +150,7 @@ Social Networking for parents
 * MapKit functionality, filters, views
 * NewsFeed implementation, server library, UI/UX
 
-Technology used: 
+Technology used:  
 Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
 
 [Allo's website](https://www.allocommunity.com) 
