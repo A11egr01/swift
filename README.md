@@ -31,7 +31,7 @@ The Dashboard is California’s new accountability system and helps parents and 
 
 * Fully buid this app
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, MapKit, Firebase/Crashlytic
 
 <a href="https://apps.apple.com/app/id1469947640" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -52,7 +52,7 @@ The EDJOIN Interview app is a tool for California public education agencies who 
 
 * Fully rewrote this app in Swift, originally was buld with Flutter
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Custom drop downs 
 
 <a href="https://apps.apple.com.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -73,7 +73,7 @@ The My Stuff Job Central app is a tool for beginning job seekers. The app allows
 
 * Fully buid this app
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 
 <a href="https://apps.apple.com/us/app/my-stuff-job-central/id1469462748" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -88,7 +88,7 @@ The SEISTracker app allows service providers to quickly and easily document the 
 
 * Added few sections new app sections to the existng app, added features, expanding it funcitonality 2x times. 
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, Keychain
 
 <a href="https://apps.apple.com/us/app/seis-tracker/id1437211511" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -109,7 +109,7 @@ The Strong Start app is an information tool to help you become familiar with our
 
 * Fully buid this app
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic
 
 <a href="https://apps.apple.com/us/app/strong-start/id1517861555" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -130,7 +130,7 @@ The California Center on Teaching Careers is tasked with helping to eliminate th
 
 * Rewrote the entire codebase of this app
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Prorgamatic UI, Firebase/Crashlytic, In-App Messaging
 
 <a href="https://apps.apple.com/app/id1349924190" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
@@ -150,7 +150,7 @@ Social Networking for parents
 * MapKit functionality, filters, views
 * NewsFeed implementation, server library, UI/UX
 
-Technology used: <br />
+<em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, CoreData AWSAmazonservices, MapKit
 
 [Allo's website](https://www.allocommunity.com) 
