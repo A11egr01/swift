@@ -7,8 +7,8 @@ A visual portfolio of my latest Swift iOS projects. 📱
 # HomeBound 
 
 App developed for the city of Stockton, CA. This app is intended for existing city outreach volunteers, staff, and personnel who currently use existing paper surveys, as another efficient means to collect this critical data in order to effectively serve the homeless population. 
-HomeBound App has offline capabilities, stores gathered surveys on the device. They can be submitted at any time when connection is back.
-Core location and GoogleMaps API used to capture exact location of where survey takes place. 
+HomeBound App has offline capabilities, stores gathered surveys on the device. Surveys can be submitted at any time once internet connection is back.
+Core location and GoogleMaps API used to capture exact location of where survey takes place. Camer or gallery can be attached to any survey.
 
 App used every day by hundreds of California state employees and schools.
 
