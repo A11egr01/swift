@@ -20,7 +20,7 @@ Swift, Git, Autolayout, Programmatic UI, Persistent data, GoogleMaps API, MapKit
 <a href="https://apps.apple.com/us/app/project-homebound/id1571378906" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 <p align="center">
-<img src="images/HomeBound/simulator2.gif" width="230"  title="New survey flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/1.png" width="230" title="History screen online">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/6.png" width="230" title="Questions screen sample">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/3.png" width="230" title="Questions screen, one section">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/simulator.gif" width="230" title="Forgot password flow">
+<img src="images/HomeBound/simulator2.gif" width="230"  title="New survey flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/5.png" width="230" title="Welcome screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/7.png" width="230" title="Questions screen sample">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/3.png" width="230" title="Questions screen, one section">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/simulator.gif" width="230" title="Forgot password flow">
 </p>
 
 # Schools Self Screenin‪g‬ 
