@@ -4,6 +4,25 @@ A visual portfolio of my latest Swift iOS projects. 📱
 <img src="images/icons/swift.png" width="50"  title="Swift 3.0 - 5.0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
 </p>
 
+# HomeBound 
+
+App developed for the city of Stockton, CA. This app is intended for existing city outreach volunteers, staff, and personnel who currently use existing paper surveys, as another efficient means to collect this critical data in order to effectively serve the homeless population. 
+HomeBound App has offline capabilities, stores gathered surveys on the device. They can be submitted at any time when connection is back.
+Core location and GoogleMaps API used to capture exact location of where survey takes place. 
+
+App used every day by hundreds of California state employees and schools.
+
+* Fully build this app
+
+<em>Technology used:</em> <br /> 
+Swift, Git, Autolayout, Programmatic UI, Persistent data, GoogleMaps API, MapKit, CoreLocation, Camera.
+
+<a href="https://apps.apple.com/us/app/project-homebound/id1571378906" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
+<p align="center">
+<img src="images/HomeBound/simulator2.gif" width="230"  title="New survey flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/1.png" width="230" title="History screen online">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/2.png" width="230" title="History screen offline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/3.png" width="230" title="Questions screen, one section">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/simulator.gif" width="230" title="Forgot password flow">
+</p>
+
 # Schools Self Screenin‪g‬ 
 
 Use the Schools Self Screening App to help fight the spread of COVID-19 by having your employees submit a self screening before entering the workplace.
@@ -55,7 +74,7 @@ The EDJOIN Interview app is a tool for California public education agencies who 
 <em>Technology used:</em> <br /> 
 Swift, Git, Autolayout, Programmatic UI, Firebase/Crashlytic, Custom drop downs 
 
-<a href="https://apps.apple.com.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+<a href="https://apps.apple.com/us/app/edjoin-interview/id434730011" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 #### iPhone
 <p align="center">
