@@ -17,7 +17,7 @@ Swift, Git, Autolayout, Programmatic UI, Persistent data, LocalAuthentication, H
 <a href="https://apps.apple.com/us/app/crateq/id1513483202" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
 
 <p align="center">
-<img src="images/CrateQ/1.gif" width="230"  title="Music player flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/2.png" width="230" title="Genres screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/3.png" width="230" title="Muisic list">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/4.gif" width="230" title="New home page flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/6.png" width="230" title="Login screen">
+<img src="images/CrateQ/1.gif" width="230"  title="Music player flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/2.png" width="230" title="Genres screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/3.png" width="230" title="Muisic list">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/4.gif" width="230" title="New home page flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/6.png" width="230" title="Login screen">
 </p>
 
 # HomeBound 
