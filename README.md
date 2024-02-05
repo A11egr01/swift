@@ -4,6 +4,22 @@ A visual portfolio of my latest Swift iOS projects. 📱
 <img src="images/icons/swift.png" width="50"  title="Swift 3.0 - 5.0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/git.png" width="120" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/icons/swiftui.png" width="50" title="SwiftUI">
 </p>
 
+# CrateQ 
+
+Easily discover new music and queue your upcoming downloads from CrateQ mobile app.
+Your record pool will sync their queue page with our desktop and mobile apps.
+
+* Fully re-build this app, added new features 
+
+<em>Technology used:</em> <br /> 
+Swift, Git, Autolayout, Programmatic UI, Persistent data, LocalAuthentication, Hero, CoreMedia, AVKit, AVFoundation, MediaPlayer
+
+<a href="https://apps.apple.com/us/app/crateq/id1513483202" target="_blank"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1538697600&h=a265deedda290b8550d0462a73f29ffc">
+
+<p align="center">
+<img src="images/CrateQ/1.gif" width="230"  title="Music player flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HomeBound/2.png" width="230" title="Genres screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/3.png" width="230" title="Muisic list">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/4.gif" width="230" title="New home page flow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/CrateQ/6.png" width="230" title="Login screen">
+</p>
+
 # HomeBound 
 
 App developed for the city of Stockton, CA. This app is intended for existing city outreach volunteers, staff, and personnel who currently use existing paper surveys, as another efficient means to collect this critical data in order to effectively serve the homeless population. 
